@@ -39,6 +39,11 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: white;
+}
+
+#post{
+    padding: 10px;
 }
 
 #container h1
